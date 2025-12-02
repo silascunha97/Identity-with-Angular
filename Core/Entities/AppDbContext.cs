@@ -1,8 +1,8 @@
-using Identity.Core.Entities;
+using IdentityWithAngular.Core.Entities;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace Identity.Core.Entities
+namespace IdentityWithAngular.Core.Entities
 {
     public class AppDbContext : IdentityDbContext<ApplicationUser>
     {

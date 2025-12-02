@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Identity")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("IdentityWithAngular")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29c54c70d0a820b5cec378424e062f7430c5941b")]
-[assembly: System.Reflection.AssemblyProductAttribute("Identity")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Identity")]
+[assembly: System.Reflection.AssemblyProductAttribute("IdentityWithAngular")]
+[assembly: System.Reflection.AssemblyTitleAttribute("IdentityWithAngular")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

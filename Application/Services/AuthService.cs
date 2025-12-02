@@ -4,14 +4,14 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using System.Threading.Tasks;
-using Identity.Application.DTOs;
-using Identity.Application.Services;
-using Identity.Core.Entities;
+using IdentityWithAngular.Application.DTOs;
+using IdentityWithAngular.Application.Services;
+using IdentityWithAngular.Core.Entities;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Identity.Application.Services
+namespace IdentityWithAngular.Application.Services
 {
     public class AuthService : IAuthService
     {

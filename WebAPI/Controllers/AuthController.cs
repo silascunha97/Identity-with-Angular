@@ -1,14 +1,14 @@
-using Identity.Application.DTOs;
+using IdentityWithAngular.Application.DTOs;
 using Microsoft.AspNetCore.Identity;
-using Identity.Core.Entities;
+using IdentityWithAngular.Core.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
-using Identity.Application.Services;
+using IdentityWithAngular.Application.Services;
 using System;
 using System.Threading.Tasks;
 using System.Linq;
 
-namespace Identity.WebAPI.Controllers
+namespace IdentityWithAngular.WebAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

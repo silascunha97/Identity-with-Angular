@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Projetos\\asp-net\\Identity-with-Angular\\Identity.csproj": {}
+    "E:\\Projetos\\asp-net\\Identity-with-Angular\\IdentityWithAngular.csproj": {}
   },
   "projects": {
-    "E:\\Projetos\\asp-net\\Identity-with-Angular\\Identity.csproj": {
+    "E:\\Projetos\\asp-net\\Identity-with-Angular\\IdentityWithAngular.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Projetos\\asp-net\\Identity-with-Angular\\Identity.csproj",
-        "projectName": "Identity",
-        "projectPath": "E:\\Projetos\\asp-net\\Identity-with-Angular\\Identity.csproj",
+        "projectUniqueName": "E:\\Projetos\\asp-net\\Identity-with-Angular\\IdentityWithAngular.csproj",
+        "projectName": "IdentityWithAngular",
+        "projectPath": "E:\\Projetos\\asp-net\\Identity-with-Angular\\IdentityWithAngular.csproj",
         "packagesPath": "C:\\Users\\lucia\\.nuget\\packages\\",
         "outputPath": "E:\\Projetos\\asp-net\\Identity-with-Angular\\obj\\",
         "projectStyle": "PackageReference",
@@ -100,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

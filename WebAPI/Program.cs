@@ -1,6 +1,6 @@
 using System.Text;
-using Identity.Core.Entities;
-using Identity.Application.Services;
+using IdentityWithAngular.Core.Entities;
+using IdentityWithAngular.Application.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;

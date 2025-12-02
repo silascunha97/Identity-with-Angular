@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 
-namespace Identity.Core.Entities
+namespace IdentityWithAngular.Core.Entities
 {
     public class ApplicationUser : IdentityUser
     {

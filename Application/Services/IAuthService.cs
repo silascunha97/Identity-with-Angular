@@ -1,7 +1,7 @@
 
-using Identity.Application.DTOs;
+using IdentityWithAngular.Application.DTOs;
 
-namespace Identity.Application.Services
+namespace IdentityWithAngular.Application.Services
 {
     public interface IAuthService
     {

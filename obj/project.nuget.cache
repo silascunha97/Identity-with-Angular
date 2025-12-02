@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pcQSlCmTWw4=",
+  "dgSpecHash": "7DKz6cFL3fs=",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Asp-Net\\Identity\\Identity.csproj",
+  "projectFilePath": "E:\\Projetos\\asp-net\\Identity-with-Angular\\IdentityWithAngular.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucia\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\lucia\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.10\\microsoft.aspnetcore.authentication.jwtbearer.9.0.10.nupkg.sha512",
