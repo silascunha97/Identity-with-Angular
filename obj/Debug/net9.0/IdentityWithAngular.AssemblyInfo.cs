@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IdentityWithAngular")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd0eefeba8467a4e982c58d94ad5e8607635c770")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa7653e9604d1783af2595b4a95b8b5e150cf44b")]
 [assembly: System.Reflection.AssemblyProductAttribute("IdentityWithAngular")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IdentityWithAngular")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
